@@ -1,2 +1,3 @@
 Name : ajtarn
-sex : femail
+sex : female
+address : Bangkok
